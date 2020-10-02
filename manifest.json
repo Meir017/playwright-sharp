@@ -1,0 +1,1424 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.BindingSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.BindingSource.html",
+          "hash": "cv3gdR2FuvMrQnvAZJjwhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Browser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Browser.html",
+          "hash": "MzwC1xHy8FJs9faK7m/VuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.BrowserContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.BrowserContext.html",
+          "hash": "Msa6hYzN1OJjuW2kkpqNig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.BrowserContextOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.BrowserContextOptions.html",
+          "hash": "o+a7sFg1LOE/VN0h8m3tXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.BrowserType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.BrowserType.html",
+          "hash": "XRj5hYgGRg/IJxCr21Odgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.CDPEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.CDPEventArgs.html",
+          "hash": "bPSyH1OTpg8rzPp6QxsVRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.CDPSession.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.CDPSession.html",
+          "hash": "Sqt+Q4FM5KWXso9ry01deQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.CSSCoverageEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.CSSCoverageEntry.html",
+          "hash": "zFmqugHjVta0+X8ecrl7DA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.CSSCoverageEntryRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.CSSCoverageEntryRange.html",
+          "hash": "WzVy1331vgxcm4P5d5COZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.CheckedState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.CheckedState.html",
+          "hash": "c2xbavS9svwPsGz65J423A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ColorScheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ColorScheme.html",
+          "hash": "6kdZI9ECeXMuaVF1z63V+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ConsoleEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ConsoleEventArgs.html",
+          "hash": "VNpf5zDJ0XHzC6mF1fe7GA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ConsoleMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ConsoleMessage.html",
+          "hash": "nd45g9lnOT3lyFk4xk2dPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ConsoleMessageLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ConsoleMessageLocation.html",
+          "hash": "eBuMF3QgjfsQCaGD/yYVbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ContextEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ContextEvent.html",
+          "hash": "YA0t58lJR/fe44UbfNLAuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ContextPermission.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ContextPermission.html",
+          "hash": "LSuOZDAX0EAqgKfMUYmDhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Credentials.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Credentials.html",
+          "hash": "+B53hfk/zKpLC2wZzobjPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.DeviceDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.DeviceDescriptor.html",
+          "hash": "LMCY1BO1vHCuCrlvzBOyQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.DeviceDescriptorName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.DeviceDescriptorName.html",
+          "hash": "2LW+VVm9zhluSIQa7RMXYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.DialogEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.DialogEventArgs.html",
+          "hash": "YTMaxqGOfUQAJWQi9/oqVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.DialogType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.DialogType.html",
+          "hash": "RyQnVDpp0iZmVpmTHruD/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Download.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Download.html",
+          "hash": "LJQ18rCC0wwLkHwILw+uow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.DownloadEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.DownloadEventArgs.html",
+          "hash": "9ib8jbyIrkUJzAQNVOXRfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ElementHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ElementHandle.html",
+          "hash": "UeA4QcwTJIJdMNiH4z0NOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ElementState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ElementState.html",
+          "hash": "4sOg0bWZU8bYU5tqqAz1Qg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.FileChooserEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.FileChooserEventArgs.html",
+          "hash": "kqkE0mA3+IqCxRl4Q87X1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.FilePayload.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.FilePayload.html",
+          "hash": "/A0XZ6td1P2ZQSkBvuascQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Frame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Frame.html",
+          "hash": "eFFTD6DI8FlN8DsNTFBA9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.FrameEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.FrameEventArgs.html",
+          "hash": "QusZG14DSp4ROpJEr17Kng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.FrameNavigatedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.FrameNavigatedEventArgs.html",
+          "hash": "QBbQkCCQVktS7Ny5S81h5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Geolocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Geolocation.html",
+          "hash": "RPbOCbOYRIUEkSqYHBaDkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Helpers.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Helpers.StringExtensions.html",
+          "hash": "pbGXKtOfG3eHkKrL7ptRRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Helpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Helpers.html",
+          "hash": "bgXAMq+9vEbi5kocs3LiaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IAccessibility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IAccessibility.html",
+          "hash": "UP+SWXu94U32DRclKc42yQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IBrowser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IBrowser.html",
+          "hash": "eENRa+y7f/iZVv/2z5I8FQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IBrowserContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IBrowserContext.html",
+          "hash": "uT4t+MY/Y0kWPiuNNC7CMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IBrowserType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IBrowserType.html",
+          "hash": "33FfqWH6ZT423otMF0vfkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ICDPSession.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ICDPSession.html",
+          "hash": "p/c+iCgZIxjoYotssaTcsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ICoverage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ICoverage.html",
+          "hash": "FNj6O8mYaJEgn4Z5wwt8RA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IDialog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IDialog.html",
+          "hash": "zc4ytvZH6VItEX0ewJCoIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IElementHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IElementHandle.html",
+          "hash": "PhLVCh6eepuZfzAI1SnAQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IEvent.html",
+          "hash": "msNxDE/0tmjSl78mrA3dvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IFrame.html",
+          "hash": "eY69e2EUOOnHAVFZKAa65A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IJSHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IJSHandle.html",
+          "hash": "bT8X7AH4aM5nmdE/OlvBlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IKeyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IKeyboard.html",
+          "hash": "ovfxr8ZLgNyTYLpssaqq5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IMouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IMouse.html",
+          "hash": "ZoWaksILws0RUZ9FFyUIsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IPage.html",
+          "hash": "fphATNiWdra0GDZD/uFOdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IPlaywright.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IPlaywright.html",
+          "hash": "rDdiL5oxHbcP8UQrT1T09A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IRequest.html",
+          "hash": "NIne5rIec6J/UPxSE6LxZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IResponse.html",
+          "hash": "5OIY4bOTyyj+NQbq4NAJKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.IWorker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.IWorker.html",
+          "hash": "FL5Ch1olxhdoSbaXqVPb7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Input.Modifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Input.Modifier.html",
+          "hash": "9u8GtRm21Y7oezgjonR5BA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Input.MouseButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Input.MouseButton.html",
+          "hash": "cMvQoOrHUhIin47v5pEObA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Input.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Input.html",
+          "hash": "/zkXVtAhIO/BRKzYRt1sMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.JSCoverageEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.JSCoverageEntry.html",
+          "hash": "HxqnnIHl+uPTJ2IKmQHKfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.JSCoverageEntryRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.JSCoverageEntryRange.html",
+          "hash": "NU+walBGHA2fTVgmoRzVXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.JSCoverageFunction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.JSCoverageFunction.html",
+          "hash": "jM9ZI4gs+TihvjQJhju8Fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.JSHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.JSHandle.html",
+          "hash": "Fpti/jMzDWqqx1e23QXTPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.KeyDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.KeyDefinition.html",
+          "hash": "Fae4wNC5U31ez2oWGnu+Ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.KeyDefinitions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.KeyDefinitions.html",
+          "hash": "Y0kT3yEtPt2gStoT4ROU8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.LaunchOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.LaunchOptions.html",
+          "hash": "8fyLWfnErhoKuxu4gaJ/RQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.LaunchPersistentOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.LaunchPersistentOptions.html",
+          "hash": "coT5Gp6TwnTgg21ccpZkeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.LifecycleEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.LifecycleEvent.html",
+          "hash": "H/uAdhUlfqzMvU8AZOas2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.LoadStateEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.LoadStateEventArgs.html",
+          "hash": "yllXK11XEojoG7wGhD4Nag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Margin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Margin.html",
+          "hash": "7PqnAcLPNe67+DeZAUuxvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.MediaType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.MediaType.html",
+          "hash": "Ir4DF1st8Hlj1y4+TCb1Ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.NavigationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.NavigationException.html",
+          "hash": "/NERcVAz8/h8VdtDB8xA6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.NetworkCookie.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.NetworkCookie.html",
+          "hash": "xzzWGMtm0tMPKohgZXrE5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Page.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Page.html",
+          "hash": "vdHYHzV0ea69aJNbuMrq5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.PageErrorEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.PageErrorEventArgs.html",
+          "hash": "VzCNhNjDcEKYwfwMicr7tg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.PageEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.PageEvent.html",
+          "hash": "C36p9IHnuViBh60MGFRzpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.PageEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.PageEventArgs.html",
+          "hash": "9LFFoEIHalHCPpV3/kaMqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.PaperFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.PaperFormat.html",
+          "hash": "TtObbaeUtd8iE6T0Awky/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Payload.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Payload.html",
+          "hash": "usL8lAONFhhKLO/vtnAQ2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Playwright.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Playwright.html",
+          "hash": "COi49oP0aQGAIh3DIxUQDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.PlaywrightEvent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.PlaywrightEvent-1.html",
+          "hash": "L7cEmomJyZBXzt6wjJwQlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.PlaywrightSharpException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.PlaywrightSharpException.html",
+          "hash": "Un9zv9DA8PMVoRUl1bNHGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Polling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Polling.html",
+          "hash": "O+R64IjaPeJaKqPNES2M7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.PopupEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.PopupEventArgs.html",
+          "hash": "f6R/7UZyqeuIiLS/fnwpZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.PressedState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.PressedState.html",
+          "hash": "U77ptoK8T6byQMUbvv9uPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ProxySettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ProxySettings.html",
+          "hash": "eXj7GhX5VvgXOEz5qVr84A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Rect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Rect.html",
+          "hash": "d6hhTSw7ftefdFTCN3eq9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Request.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Request.html",
+          "hash": "vfpmQ2VsjvsjAb44saxnmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.RequestAbortErrorCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.RequestAbortErrorCode.html",
+          "hash": "DnTauDrn5nGjSKdamFCK1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.RequestEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.RequestEventArgs.html",
+          "hash": "6bVUtO80kCE6aBTaa25Q0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.RequestFailedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.RequestFailedEventArgs.html",
+          "hash": "lCzNNg7jTh3HFbHtiIjBRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ResourceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ResourceType.html",
+          "hash": "fM/YbGAaHwu52ZOvLkq+aA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Response.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Response.html",
+          "hash": "pE3UAO3gZkNhqXDs5L3NPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ResponseData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ResponseData.html",
+          "hash": "DwtX8b4tqtoAududZfqJMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ResponseEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ResponseEventArgs.html",
+          "hash": "9C/aH/mcTsVmltWuJGAwWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Route.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Route.html",
+          "hash": "CW8npTo5o1WT/eKmwjkPQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.RouteContinueOverrides.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.RouteContinueOverrides.html",
+          "hash": "jP5llgbfDn6lm2zEyMGwpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.RouteFilfillResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.RouteFilfillResponse.html",
+          "hash": "kgg8y+kjLttjAxfam/klgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.SameSite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.SameSite.html",
+          "hash": "wj7H1PaApCCBNeOWF3uNYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ScreenshotFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ScreenshotFormat.html",
+          "hash": "O/85/qu3mPtJ0p/7GspEVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.SelectOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.SelectOption.html",
+          "hash": "XtJylXSkPttu2i5mAkb8cQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Selectors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Selectors.html",
+          "hash": "aU/zo3Ic+keA+gYvwlzUtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.SerializedAXNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.SerializedAXNode.html",
+          "hash": "gSI77uDBwopoJSA8c9clNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.SetNetworkCookieParam.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.SetNetworkCookieParam.html",
+          "hash": "u7rqa0Ny65yuyqb3qNcUsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.TargetClosedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.TargetClosedException.html",
+          "hash": "76C4WQ5jxxHBl5v+UBCj/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Transport.ChannelOwnerBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Transport.ChannelOwnerBase.html",
+          "hash": "JU6QXtOXT0/OKNEHjRdcLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Transport.IConnectionTransport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Transport.IConnectionTransport.html",
+          "hash": "lAqgxj0NCo+LGOOcEONrlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Transport.MessageReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Transport.MessageReceivedEventArgs.html",
+          "hash": "zZCwTAtknChxO8slYJ9kZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Transport.TransportClosedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Transport.TransportClosedEventArgs.html",
+          "hash": "s8qlP2V8V3GjQk2Kkb+rTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Transport.TransportTaskScheduler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Transport.TransportTaskScheduler.html",
+          "hash": "GGJDbpCp9v+UjKx09xbHBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.Transport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.Transport.html",
+          "hash": "WFCkg95Xin6HaOWk6W4Kfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.ViewportSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.ViewportSize.html",
+          "hash": "tl5QKPKWHHQ4swWmRP7pxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.WaitForState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.WaitForState.html",
+          "hash": "TcBo8hDizRQGvSd1mGE17Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.WorkerEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.WorkerEventArgs.html",
+          "hash": "y5wkNz/ZZdaHqCQ5N/tNwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PlaywrightSharp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlaywrightSharp.html",
+          "hash": "FCNpn51ip9ZLG4/2ybxf/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "hNzzxaQawjzA5hkxzWXoCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "aLEF0W5ykzRY5BZDl7S7WQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "9/OG0p1Cuyb9gxbCojOOkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "1Xdjw8Ib7j95/TiJDj+CFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 110,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
