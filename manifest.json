@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.BindingSource.html",
-          "hash": "9ZCULqIrdL+mI00kRapO/g=="
+          "hash": "1D8Ezgwi/D4IzcrUYCTMvw=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Browser.html",
-          "hash": "JiWstOUKo2d42owl9kN0rA=="
+          "hash": "Sk+3pzUoJsy5y8DRMveFiQ=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.BrowserContext.html",
-          "hash": "y543r6poJjeboFf7SNow/w=="
+          "hash": "6esJVp4eGHZzJV2TFYCspA=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.BrowserContextOptions.html",
-          "hash": "1dH23zqbDgpHYjDV1XgJPA=="
+          "hash": "QtonPkkCoruiNXUG5xiyCA=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.BrowserType.html",
-          "hash": "b+3csHW+dJJ62NOzjuQN/w=="
+          "hash": "2CQzSRZy5iQjicJhF2jpUw=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.CDPEventArgs.html",
-          "hash": "oUNyhe427LaKymKD3Er0bg=="
+          "hash": "wWSUjsCls3Kl1TOLvX0MUA=="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.CDPSession.html",
-          "hash": "vOW9hzO8suouzPqU6UnAcQ=="
+          "hash": "TN+brVuRVXwQZS81Lu1Y7g=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.CSSCoverageEntry.html",
-          "hash": "95IgqUHWoiyJId+JwlMbwQ=="
+          "hash": "z3qb8ISl/bFE3cQDFeK9Qw=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.CSSCoverageEntryRange.html",
-          "hash": "beb/uGya6bg41hfkkOJahQ=="
+          "hash": "mFUQ0+RY0q4gYPUqvxymtg=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.CheckedState.html",
-          "hash": "Y12agfClQShI/n+KaV8BrA=="
+          "hash": "5pyJGXYB/CKgsQ1jBOOWeg=="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ColorScheme.html",
-          "hash": "UwS+620p3CxBT9s9BEgSiw=="
+          "hash": "8VwcpNPHjjJKTc0p9q9mWw=="
         }
       },
       "is_incremental": false,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ConsoleEventArgs.html",
-          "hash": "8pX4dHIRiA2ThuzsQEOAnw=="
+          "hash": "n8mhUOK/5Sl+QMFrhGRcoA=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ConsoleMessage.html",
-          "hash": "HlTpLXRNN0JPJd8Jr3cVrw=="
+          "hash": "FJl3GSEYCjoKpTozZDZIXA=="
         }
       },
       "is_incremental": false,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ConsoleMessageLocation.html",
-          "hash": "dN40OklAsx60Kx5mhEdm2g=="
+          "hash": "XQRoodlxU1Zn50oq2pDPLg=="
         }
       },
       "is_incremental": false,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ContextEvent.html",
-          "hash": "abQOldZ2l3vN8uWtmYTyXA=="
+          "hash": "oUBqoJuIyde9Hs5plYKP5g=="
         }
       },
       "is_incremental": false,
@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ContextPermission.html",
-          "hash": "JyFBuaJPCsyvtF4Qt2Irjg=="
+          "hash": "np/KjCcMjKCI27NcCKrFYA=="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Credentials.html",
-          "hash": "bPu2I5YLYDhzPuI1JTCPgw=="
+          "hash": "Ek7/ZvEcm+r215Iez8b0Ug=="
         }
       },
       "is_incremental": false,
@@ -213,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.DeviceDescriptor.html",
-          "hash": "cxQ3CoJ1cngYHznwlNVUAw=="
+          "hash": "RhzjbmFaxXbY5XV/vPLiRg=="
         }
       },
       "is_incremental": false,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.DeviceDescriptorName.html",
-          "hash": "uP42cnzWJgmdNfvmhetsFw=="
+          "hash": "lUgCnXkvTEOUGav4qTqHtQ=="
         }
       },
       "is_incremental": false,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.DialogEventArgs.html",
-          "hash": "dfhcJ4L+ba8xffltqkz0mw=="
+          "hash": "PY3f21WVzc0D/tApN0YnmA=="
         }
       },
       "is_incremental": false,
@@ -249,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.DialogType.html",
-          "hash": "ghD76orUKrOQlIOekLI8pg=="
+          "hash": "/mpPCy+ZFfcR0ILhkAVgsg=="
         }
       },
       "is_incremental": false,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Download.html",
-          "hash": "0iAtZIQijNLAH5zSBpPFYQ=="
+          "hash": "lbbOg6rMnobuIxOtUGNsSg=="
         }
       },
       "is_incremental": false,
@@ -273,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.DownloadEventArgs.html",
-          "hash": "mI3SbVbbuUkc3zy028+WkA=="
+          "hash": "MKsjLDoAMrap6FKpDR+xQw=="
         }
       },
       "is_incremental": false,
@@ -285,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ElementHandle.html",
-          "hash": "hHx1MfyqaFbjsqFvSxbdBQ=="
+          "hash": "TrqI5PAwDmrYcvbwtXPp4w=="
         }
       },
       "is_incremental": false,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ElementState.html",
-          "hash": "M2nr5csBHU8qoDnMqJgb8A=="
+          "hash": "jkeQSh2JDO0s2P8Ri0rR+w=="
         }
       },
       "is_incremental": false,
@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.FileChooserEventArgs.html",
-          "hash": "m3JlrvZZlhibWPiMOgRpTA=="
+          "hash": "yj9wxJtazcuUnPa2rQUKQA=="
         }
       },
       "is_incremental": false,
@@ -321,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.FilePayload.html",
-          "hash": "TPyjSwAciW5Iyk/5r491HQ=="
+          "hash": "JENMPR7JdKka/gLOtQkVrw=="
         }
       },
       "is_incremental": false,
@@ -333,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Frame.html",
-          "hash": "lTkfQE+EPAJcrykQrHD6RA=="
+          "hash": "yjZCNcMubELdZqziZbnwJw=="
         }
       },
       "is_incremental": false,
@@ -345,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.FrameEventArgs.html",
-          "hash": "SuaST11tpQrdFQ353TZx8Q=="
+          "hash": "CrMFBKWo3FBr+bZyKpSirA=="
         }
       },
       "is_incremental": false,
@@ -357,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.FrameNavigatedEventArgs.html",
-          "hash": "AVScKCm1ykpqQnOewuFmtA=="
+          "hash": "BwxQBtG582l9gMZVAZ6KkQ=="
         }
       },
       "is_incremental": false,
@@ -369,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Geolocation.html",
-          "hash": "uh5EFQvuOnrHWNX0mSkAlA=="
+          "hash": "ePMow76jAq9SKa6b9/OP4Q=="
         }
       },
       "is_incremental": false,
@@ -381,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Helpers.StringExtensions.html",
-          "hash": "SRu35vx3Fu3A36OTpeWiTg=="
+          "hash": "SD4yUd1EvOHRMTQJ0Mc/Bw=="
         }
       },
       "is_incremental": false,
@@ -405,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IAccessibility.html",
-          "hash": "R20W591KRcY0Oq3TqvCfPQ=="
+          "hash": "MEoG/N0uw5iip46Y/eAkUw=="
         }
       },
       "is_incremental": false,
@@ -417,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IBrowser.html",
-          "hash": "4iRaV1vh9Y8dVHkEYV1dFw=="
+          "hash": "pAU3WN98txLY6YRk2jrHTw=="
         }
       },
       "is_incremental": false,
@@ -429,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IBrowserContext.html",
-          "hash": "Ptw0I3u3X4d89+azO8oEPw=="
+          "hash": "b/c3CiHEXMw4MtyGBtx99g=="
         }
       },
       "is_incremental": false,
@@ -441,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IBrowserType.html",
-          "hash": "G/Nr349nGyABjz0sMEWdQw=="
+          "hash": "qV3ntfhgt5Z+KdnvaxrXQw=="
         }
       },
       "is_incremental": false,
@@ -453,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ICDPSession.html",
-          "hash": "fAT7hKIDFUm7QaygrDDg+Q=="
+          "hash": "DGc9/bp1ponm5C6biXC2zw=="
         }
       },
       "is_incremental": false,
@@ -465,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ICoverage.html",
-          "hash": "HVSEfvN97FmEAlUBPv9MhA=="
+          "hash": "9grmkGCQXbgRTMGtlrjtog=="
         }
       },
       "is_incremental": false,
@@ -477,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IDialog.html",
-          "hash": "oBCZrz+5Itinjf9UL0RlqQ=="
+          "hash": "jCNCae01+OVHN+BNeP9fPg=="
         }
       },
       "is_incremental": false,
@@ -489,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IElementHandle.html",
-          "hash": "mVRxDqKeHFG0O0bWaYK5aA=="
+          "hash": "K63qriRFGLf0fWcqyFBsUQ=="
         }
       },
       "is_incremental": false,
@@ -501,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IEvent.html",
-          "hash": "P4NhQUyckBeT39arW6Ae2w=="
+          "hash": "n2E/S64625aN1mKxyfbQ4g=="
         }
       },
       "is_incremental": false,
@@ -513,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IFrame.html",
-          "hash": "rCFHPBhRo1NmUH1ph0z4Eg=="
+          "hash": "XD+MoqoX9NvrBychBgMjjw=="
         }
       },
       "is_incremental": false,
@@ -525,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IJSHandle.html",
-          "hash": "g5hYcTExhzhdD3qpZmwl4Q=="
+          "hash": "xG3Jy2420gt/2l6Y1h+/DA=="
         }
       },
       "is_incremental": false,
@@ -537,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IKeyboard.html",
-          "hash": "pHPg2hLpE5Hd0N0TO9/+mw=="
+          "hash": "HPpGmhVQZHS5MzWmYSfDFg=="
         }
       },
       "is_incremental": false,
@@ -549,7 +549,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IMouse.html",
-          "hash": "rJdGYSdj3OriObUlmPfMXg=="
+          "hash": "UKEzmgl/tsm0Ss4touYVVQ=="
         }
       },
       "is_incremental": false,
@@ -561,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IPage.html",
-          "hash": "aIrf18343rlSoyr3NAkV8A=="
+          "hash": "Ll/CIwgOEz9Aeq2lz0TlkQ=="
         }
       },
       "is_incremental": false,
@@ -573,7 +573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IPlaywright.html",
-          "hash": "2jnGiBAsodafwSDD15YRZA=="
+          "hash": "jDrBpIDJyI5cYopMHhU91A=="
         }
       },
       "is_incremental": false,
@@ -585,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IRequest.html",
-          "hash": "15zT4B6cQtmKi7DJzEBaJw=="
+          "hash": "iWav5tt55AiJhh72OSEX/w=="
         }
       },
       "is_incremental": false,
@@ -597,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IResponse.html",
-          "hash": "krd3J3pk3f5R0ifeMrXoLA=="
+          "hash": "TIbMhK23D5n2InGR+nO+8A=="
         }
       },
       "is_incremental": false,
@@ -609,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.IWorker.html",
-          "hash": "/qR7K0E/3gB8l1Xh/ZEs7Q=="
+          "hash": "y7M6hMRb8o4v27IwtlMG9g=="
         }
       },
       "is_incremental": false,
@@ -621,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Input.Modifier.html",
-          "hash": "D0J5UowR7+pgQU+NZVEVTg=="
+          "hash": "9TnLI8MqL4MQJ5k9g3Yjqg=="
         }
       },
       "is_incremental": false,
@@ -633,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Input.MouseButton.html",
-          "hash": "uYXxXgR2vkadVha7XGzmvQ=="
+          "hash": "+OfnsY1tT95wTvy+cvxt3Q=="
         }
       },
       "is_incremental": false,
@@ -657,7 +657,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.JSCoverageEntry.html",
-          "hash": "3DuYIr6JXxrnE+XsaFg0iQ=="
+          "hash": "OHZaJHZ+mHrtrHi8pX+Jsw=="
         }
       },
       "is_incremental": false,
@@ -669,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.JSCoverageEntryRange.html",
-          "hash": "RnyN4O5b7My9zWxGyCB3XA=="
+          "hash": "j5Rfit+lus2B0Yl+swfRIQ=="
         }
       },
       "is_incremental": false,
@@ -681,7 +681,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.JSCoverageFunction.html",
-          "hash": "vMLtQfwNYhePZmAamge4Kw=="
+          "hash": "uYR3cxbF5vkMR9vDKl8ApA=="
         }
       },
       "is_incremental": false,
@@ -693,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.JSHandle.html",
-          "hash": "bkXIQN0wZL73Qnyh8/xhUQ=="
+          "hash": "mpt/Wpuq4dBAujzsyjZPnQ=="
         }
       },
       "is_incremental": false,
@@ -705,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.KeyDefinition.html",
-          "hash": "E4UPFW+0NJRUiKUlYWS8Vg=="
+          "hash": "Kf/rp/3V+imNCzFp+8lwaQ=="
         }
       },
       "is_incremental": false,
@@ -717,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.KeyDefinitions.html",
-          "hash": "D+3NTJ7xDGGvsaBLn1gmaQ=="
+          "hash": "l7ZfB0U9enT4Kbk6aFktYw=="
         }
       },
       "is_incremental": false,
@@ -729,7 +729,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.LaunchOptions.html",
-          "hash": "cn3T4zcuF9yiUGyC837gPA=="
+          "hash": "qTJfnjarRU2xCYf9bvLdyQ=="
         }
       },
       "is_incremental": false,
@@ -741,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.LaunchPersistentOptions.html",
-          "hash": "/AkiWe9C6KqWBp4juvLZSg=="
+          "hash": "6vqlYXrKW+gFEm8nuW7GBg=="
         }
       },
       "is_incremental": false,
@@ -753,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.LifecycleEvent.html",
-          "hash": "Y76HEevinMR9cKiWl6YS4g=="
+          "hash": "EAbiwIFWEVSNe9VfuN37/w=="
         }
       },
       "is_incremental": false,
@@ -765,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.LoadStateEventArgs.html",
-          "hash": "kFnm9mhI6cXMJXBEPqmfYA=="
+          "hash": "qVMVYV33ferjDcihJ9Nrkg=="
         }
       },
       "is_incremental": false,
@@ -777,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Margin.html",
-          "hash": "nXnr7c3XBH+5bHhHTR99rg=="
+          "hash": "tWA5ZqYLehqsMzCggP7w8Q=="
         }
       },
       "is_incremental": false,
@@ -789,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.MediaType.html",
-          "hash": "dQJWXtPqqILBBvApIDwl2w=="
+          "hash": "MuQCuKLDhvfFaOcIca/XOA=="
         }
       },
       "is_incremental": false,
@@ -801,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.NavigationException.html",
-          "hash": "IahH4kwbhH73mctvlmXaCQ=="
+          "hash": "9WHWoRGdYNHSSd9olPWLzw=="
         }
       },
       "is_incremental": false,
@@ -813,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.NetworkCookie.html",
-          "hash": "nyvM8qeNDJrghRh6tJM0QA=="
+          "hash": "7C053TkOAzElDf0fgW9NLQ=="
         }
       },
       "is_incremental": false,
@@ -825,7 +825,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Page.html",
-          "hash": "w+OYN6PPcQRQkBX7YEi/FA=="
+          "hash": "gKRtRXeicjetyuDlCD+Bpg=="
         }
       },
       "is_incremental": false,
@@ -837,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.PageErrorEventArgs.html",
-          "hash": "RmqeuJd8gqCD5BNpnExLUg=="
+          "hash": "jtZM5yx6jQvxrH7n0MPL4Q=="
         }
       },
       "is_incremental": false,
@@ -849,7 +849,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.PageEvent.html",
-          "hash": "Bbw2IXa4HSdehXEUz58pzg=="
+          "hash": "oFNzwBOAw53T5CqhSi98zg=="
         }
       },
       "is_incremental": false,
@@ -861,7 +861,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.PageEventArgs.html",
-          "hash": "AQOXzWGiKvxDCjik1ya6SA=="
+          "hash": "aRBuplaCxewLilfMvYWG9A=="
         }
       },
       "is_incremental": false,
@@ -873,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.PaperFormat.html",
-          "hash": "KbfprywWouaGcuboGqtdBg=="
+          "hash": "H6M7TDxWfli4GlZ8rWTGdw=="
         }
       },
       "is_incremental": false,
@@ -885,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Payload.html",
-          "hash": "uNjrHD7yVEfyKT7hc9p4Gw=="
+          "hash": "3kuLZk0scYiOxIRBPacJvQ=="
         }
       },
       "is_incremental": false,
@@ -897,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Playwright.html",
-          "hash": "CB5HZxz2gGpt0zcexFbvbQ=="
+          "hash": "hlvb1tl1CaUg/K4FziDdAQ=="
         }
       },
       "is_incremental": false,
@@ -909,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.PlaywrightEvent-1.html",
-          "hash": "w4xhPBMympZwgYr/pHnr3g=="
+          "hash": "S3cun6ArKgFF6So9I5peaw=="
         }
       },
       "is_incremental": false,
@@ -921,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.PlaywrightSharpException.html",
-          "hash": "ZgmkZCE7SKBhAZUyPDh7pw=="
+          "hash": "qMDaLQBGMj+fnE7S7bz0tw=="
         }
       },
       "is_incremental": false,
@@ -933,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Polling.html",
-          "hash": "5E1DeR5UW0lXGZ33L7i3/w=="
+          "hash": "xa9rmnQDitGxR8Njp9xhBA=="
         }
       },
       "is_incremental": false,
@@ -945,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.PopupEventArgs.html",
-          "hash": "6AEVfPmfCkL+K5QAG3UcFw=="
+          "hash": "bptRj6vl3TH5XwvO2XNQzA=="
         }
       },
       "is_incremental": false,
@@ -957,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.PressedState.html",
-          "hash": "BL8pGBCiO5GVe+FruYZr6Q=="
+          "hash": "z2onlLYYpjxL6GxLZnKu6g=="
         }
       },
       "is_incremental": false,
@@ -969,7 +969,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ProxySettings.html",
-          "hash": "sZilQix2kYs17WF8VL4wbA=="
+          "hash": "BBO+ck71DLFcL4Rsw7x+og=="
         }
       },
       "is_incremental": false,
@@ -981,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Rect.html",
-          "hash": "Z54qEoeflXAYEBktOG2smg=="
+          "hash": "J0J82OZenZmsayC1vaco7A=="
         }
       },
       "is_incremental": false,
@@ -993,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Request.html",
-          "hash": "tflaHNRuwySxlw0MoYhICQ=="
+          "hash": "oBo3d+XnnwLdky4Ors3kCg=="
         }
       },
       "is_incremental": false,
@@ -1005,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.RequestAbortErrorCode.html",
-          "hash": "S4qvl1SqUTEvfUGVDSc8Dw=="
+          "hash": "nIryYYxii6ByfPUqOLVPxQ=="
         }
       },
       "is_incremental": false,
@@ -1017,7 +1017,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.RequestEventArgs.html",
-          "hash": "08tadHeW0sLF25PluAotZQ=="
+          "hash": "gmauwHvu8K5SU+e4/GD4UA=="
         }
       },
       "is_incremental": false,
@@ -1029,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.RequestFailedEventArgs.html",
-          "hash": "bqAPt+WuHEHEXwQ4mdH6PQ=="
+          "hash": "ppT4hdwJzcWXSc2AP0JUtw=="
         }
       },
       "is_incremental": false,
@@ -1041,7 +1041,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ResourceType.html",
-          "hash": "/ukQHM3UpykA+EvG4dpgew=="
+          "hash": "WtK+UYNyio9tH025jSVzwQ=="
         }
       },
       "is_incremental": false,
@@ -1053,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Response.html",
-          "hash": "H5lzhJGmIfPHX75VNbTlYw=="
+          "hash": "rXkAc+pjUQEbdJmk9owA4Q=="
         }
       },
       "is_incremental": false,
@@ -1065,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ResponseData.html",
-          "hash": "cGCQU0wzZ2EOPtV97Ec4Hg=="
+          "hash": "gEssHS8QOFtF2qpAonPlyw=="
         }
       },
       "is_incremental": false,
@@ -1077,7 +1077,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ResponseEventArgs.html",
-          "hash": "/eWAwMED0yao5T8aWweWCA=="
+          "hash": "j6fwQ2wjeUNJ7NqAj02JbA=="
         }
       },
       "is_incremental": false,
@@ -1089,7 +1089,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Route.html",
-          "hash": "6S7qfWA6vAQZPwMGPWx8QQ=="
+          "hash": "vgABlR79TUBOnFDfu50EzA=="
         }
       },
       "is_incremental": false,
@@ -1101,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.RouteContinueOverrides.html",
-          "hash": "vgeo6Yyp5wDK7CqtrDwOWw=="
+          "hash": "IAGdm4EqkwM841XjehjRnA=="
         }
       },
       "is_incremental": false,
@@ -1113,7 +1113,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.RouteFilfillResponse.html",
-          "hash": "P8vPtD69HMzsOy7eapxjcw=="
+          "hash": "3H+1c5hz8GuyyebnPtZzVw=="
         }
       },
       "is_incremental": false,
@@ -1125,7 +1125,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.SameSite.html",
-          "hash": "4BRzxtbDW2WMhlk4kl6HMA=="
+          "hash": "viONJ512h2xHuSojuMudNA=="
         }
       },
       "is_incremental": false,
@@ -1137,7 +1137,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ScreenshotFormat.html",
-          "hash": "0QImzQLwY3ke/ro7OJjS7w=="
+          "hash": "5qfB1Nf7pjKa717KgL+KHg=="
         }
       },
       "is_incremental": false,
@@ -1149,7 +1149,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.SelectOption.html",
-          "hash": "I7aLmc/6jyY7Q/idVlxrLg=="
+          "hash": "a6JOASaI3l150mvR161m4g=="
         }
       },
       "is_incremental": false,
@@ -1161,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Selectors.html",
-          "hash": "oV+ms9OQW3XkzqWCtjcj8w=="
+          "hash": "5jDlCFse8BvAOURFWuLM8w=="
         }
       },
       "is_incremental": false,
@@ -1173,7 +1173,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.SerializedAXNode.html",
-          "hash": "kTjsLntIwN5u9X2zu2klUw=="
+          "hash": "0W7JxIreBBqK48mqB4xnpQ=="
         }
       },
       "is_incremental": false,
@@ -1185,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.SetNetworkCookieParam.html",
-          "hash": "OXaD094kmaF5ceWMvbDNAw=="
+          "hash": "R2egH7HibR4Xt3pEa1bQkg=="
         }
       },
       "is_incremental": false,
@@ -1197,7 +1197,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.TargetClosedException.html",
-          "hash": "B2EFol7i7FhiQ6qpZEzIiA=="
+          "hash": "cO03QndP+XcAkdLfNBhFiw=="
         }
       },
       "is_incremental": false,
@@ -1209,7 +1209,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Transport.ChannelOwnerBase.html",
-          "hash": "qSRzU5l8G5tm1Qd22Gx/kg=="
+          "hash": "95Lsrmt0mlsk34ghbWcBJA=="
         }
       },
       "is_incremental": false,
@@ -1221,7 +1221,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Transport.IConnectionTransport.html",
-          "hash": "UZ7yiCF/YTsar3bN3yaIGw=="
+          "hash": "f+OonGkLSTtl2W+m4Vp9Ig=="
         }
       },
       "is_incremental": false,
@@ -1233,7 +1233,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Transport.MessageReceivedEventArgs.html",
-          "hash": "gtAu3GSiaOynEgW9QR25xQ=="
+          "hash": "8xhBEWRSuGnYl0VW6CY7lA=="
         }
       },
       "is_incremental": false,
@@ -1245,7 +1245,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Transport.TransportClosedEventArgs.html",
-          "hash": "c4uoAGzhJeJyO7O7X5qAUg=="
+          "hash": "z79SZ5W6XGQSQNlMjgcUbw=="
         }
       },
       "is_incremental": false,
@@ -1257,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.Transport.TransportTaskScheduler.html",
-          "hash": "LIPLN+FyuHMhBd1aNf57sA=="
+          "hash": "HvNTbnH4nPkNtAnnmrgN6w=="
         }
       },
       "is_incremental": false,
@@ -1281,7 +1281,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.ViewportSize.html",
-          "hash": "TjPSz+9JrjUfhxSSmKatyw=="
+          "hash": "Yj6daWtYz/7+TR8hwcyARg=="
         }
       },
       "is_incremental": false,
@@ -1293,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.WaitForState.html",
-          "hash": "f9oNHPzehKwwxl1CIPVSFw=="
+          "hash": "Y6bcc+JG7tgFSjHdXj/7hQ=="
         }
       },
       "is_incremental": false,
@@ -1305,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api/PlaywrightSharp.WorkerEventArgs.html",
-          "hash": "N3Fh6dqF0DQAR1YpvcG00Q=="
+          "hash": "OT1nmswKGK8Pt5yei9NVnA=="
         }
       },
       "is_incremental": false,
@@ -1329,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "JlvEtk4O0LnQdzhV3c0RMQ=="
+          "hash": "t7YK9km9vnyiJ+hYRUWD2w=="
         }
       },
       "is_incremental": false,
@@ -1353,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "UQyzJjNwfSu7mfB3X8Ikaw=="
+          "hash": "mLWDiw5xjVdnrlJAgs0Ijw=="
         }
       },
       "is_incremental": false,
@@ -1383,13 +1383,6 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
@@ -1400,6 +1393,13 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 110,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
           "skipped_file_count": 0
         }
       }
